@@ -1,7 +1,4 @@
-### Hi I'm Nathan! 👋
-
-- I work as a senior developer advocate at AWS 🥑
-- You can [chat with me on Twitter](https://twitter.com/nathankpeck), or [check my blog](https://nathanpeck.com) for interesting articles and videos
-- Here are some of my favorite open source sample applications I'm proud of:
-  - A [serverless chat application](https://github.com/nathanpeck/socket.io-chat-fargate) built using AWS Fargate, and DynamoDB
-  - A [serverless changelog crawler and search engine](https://github.com/aws-samples/aws-cdk-changelogs-demo), which powers my website [changelogs.md](https://changelogs.md)
+![](https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.0-9/75298450_1011741305842932_1774696013013975040_n.jpg?_nc_cat=102&_nc_sid=110474&_nc_ohc=nBPL647JzkQAX-kgSS-&_nc_ht=scontent.fsgn2-5.fna&oh=e2644959c6dc191438172085cb6096fd&oe=5F398BC2)
+### Hi I'm Nguyen Thanh Cong! 👋
+- 
+- I work as a software engineer RoR 🥑
